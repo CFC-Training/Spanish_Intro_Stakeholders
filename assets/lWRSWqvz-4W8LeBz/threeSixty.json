@@ -1,0 +1,27 @@
+{
+  "version": "3.78.30747.0",
+  "course_id": "6JvtvmxZlLK_course_id",
+  "title": "parte interesada o titular de derechos dragndrop_v2",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Escena sin título"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5qbxYYJuCIb",
+      "title": "Arrastrar y soltar",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 740,
+    "height": 611
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}
